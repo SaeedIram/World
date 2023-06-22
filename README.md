@@ -1,11 +1,9 @@
 # World
 [Assignment
-] (https://github.com/SaeedIram/World/blob/main/Day%202%20MYSQL%20Tasks%20-%20Copy1.pptx)https://github.com/SaeedIram/World/blob/main/Day%202%20MYSQL%20Tasks%20-%20Copy1.pptx
+](https://github.com/SaeedIram/World/blob/main/Day%202%20MYSQL%20Tasks%20-%20Copy1.pptx)
 
-[Create database] (https://github.com/SaeedIram/World/blob/main/world%20db.sql)https://github.com/SaeedIram/World/blob/main/world%20db.sql.
-
-
-[EER diagram] (https://github.com/SaeedIram/World/blob/main/eer%20world.mwb)https://github.com/SaeedIram/World/blob/main/eer%20world.mwb
+[Create database](https://github.com/SaeedIram/World/blob/main/world%20db.sql)
 
 
-[[eer]](https://github.com/SaeedIram/World/blob/main/eer%20world.mwb)https://github.com/SaeedIram/World/blob/main/eer%20world.mwb
+[EER diagram](https://github.com/SaeedIram/World/blob/main/eer%20world.mwb)
+
