@@ -15,3 +15,4 @@
 [x] Identifying primary and foreign key
 
 
+![world eer](https://github.com/SaeedIram/World/assets/136697415/4a0453a1-9f65-42aa-b39d-f1af2c33be9c)
